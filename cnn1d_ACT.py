@@ -143,3 +143,5 @@ with tf.Session() as sess:
 # 2018/11/4 15:07 fc1 fc2 tanh-->relu
 # ### Epoch:  950 |Train loss =  1.0435917 |Train acc =  0.98663163  ###
 # ### After Epoch:  950  |Test acc =  0.9571016  ###
+
+# test update
