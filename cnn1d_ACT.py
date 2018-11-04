@@ -145,3 +145,5 @@ with tf.Session() as sess:
 # ### After Epoch:  950  |Test acc =  0.9571016  ###
 
 # test update
+
+# test update new
